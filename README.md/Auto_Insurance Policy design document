@@ -1,0 +1,32 @@
+# Group_4
+Auto_Insurance Policy
+Project Team Name: Group_4 Auto Insurance
+Team Member Names:
+1.	Zegeye Wendimu  
+2.	Selam Mengesha      
+3.	Messaye Gebremeskel
+4.	Fista Kidus
+5.	Rahel Haileyesus
+6.	Yodit Haileyesus
+Data modelling process for the Auto- Insurance database
+Processing of analyzing the Auto-Insurance data requirements and identifying the objects to be used for the database. logical/conceptual/physical data model
+What is the goal of this database and what is it trying to achieve?
+Gathering Requirements for the Auto-insurance Database
+Analyze the requirements
+Design the database
+Develop the database
+Test the database
+Deploy the database
+1. who the database is for? Clients/customers
+2.What are the needs of the Database(Auto-Insurance)
+3. what needs to be stored in the database
+4. how can we find out what needs to be stored?
+5. Exception and Rules? Database are built on rules and related in a certain way, when designing the database need to know if something is definitely true or false, find out the details
+Not everything needs to be stored: speaking to Customers/peoples/clients what they want to store and find out what they don’t want to store
+Database design 
+Normalization the tables (1NF, 2Nf, 3NF…)
+Relationship between the tables
+How many entities we need
+Determine the attributes of the entities
+Design Consideration: Data Types and Precision, integrity constraints,
+Visual Paradigm features all the UML diagrams and ERD (Entity relationship diagram) tools essentially in system and database design. Innovative modeling tools like Resource Catalog and Nicknamer makes system modeling easy and cost-effective.
